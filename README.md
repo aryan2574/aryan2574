@@ -1,5 +1,5 @@
-<h1 align="center">Hi There! I'm Ayush Aryan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h1>
-<h3 align="center">Currently in Final year of Computer Science and Engineering</h3>
+<h1 align="center">Hi There! I'm Ayush Aryan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h1>
+<h3 align="center">Software Engineer</h3>
 
 - 👨‍💻 **Competitive Programmer, Problem Solver, Experienced Full Stack Developer. Have good command over data structures, algorithms and OOPs.**
 - 📌 Technical interest: **Software Development, Full Stack Development, C++**
