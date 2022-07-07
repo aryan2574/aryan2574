@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 - 👨‍💻 **Competitive Programmer, Problem Solver, Experienced Full Stack Developer. Have good command over data structures, algorithms and OOPs.**
-- 📌 Technical interest: **Software Development, Full Stack Development, C++**
+- 📌 Technical interest: **Software Development**
 - 💬 Ask me about: **C++, Programming Lanugages, DSA and Technologies.**
 - 📝 I write answers on: [https://www.quora.com/profile/Ayush-Aryan-28](https://www.quora.com/profile/Ayush-Aryan-28)
                          [https://stackoverflow.com/users/11847375/ayush-aryan](https://stackoverflow.com/users/11847375/ayush-aryan)
