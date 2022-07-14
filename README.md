@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! I'm Ayush Aryan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px"></h1>
+<h1 align="center">Hi There! I'm Ayush Aryan</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 👨‍💻 **Competitive Programmer, Problem Solver, Experienced Full Stack Developer. Have good command over data structures, algorithms and OOPs.**
