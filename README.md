@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! I'm Ayush Aryan</h1>
-<h3 align="center">Full Stack Developer - ReactJS + Java Spring boot</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 💬 Ask me about: **C++, ReactJS, Java, DSA and technologies.**
 - 👀 I’m interested in learning more about Software Design and Architecture.
